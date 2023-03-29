@@ -1,0 +1,14 @@
+Practical 5:Use WireShark sniffer to capture
+network traffic and analyze
+
+1.Install and open WireShark
+2.select Ethernet
+3. Open new window and  search "http login"  and enter the user id and password. Register if needed.
+4. Select filter as http to make the search easier and click on apply.
+5.Find the post methods for username and passwords.
+6. U will see the email- id and password that you used to log in
+
+
+Thanks for watching..
+for more video subscribe now..
+
